@@ -1,0 +1,109 @@
+.ico {
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 80px;
+    width: 80px;
+}
+.ico-folder {
+    background-image: url(./img/ico_folder.png);
+}
+.ico-video {
+    background-image: url(./img/ico_video.png);
+}
+.ico-music {
+    background-image: url(./img/ico_music.png);
+}
+.ico-doc {
+    background-image: url(./img/ico_doc.png);
+}
+.ico-xls {
+    background-image: url(./img/ico_xls.png);
+}
+.ico-ppt {
+    background-image: url(./img/ico_ppt.png);
+}
+.ico-txt {
+    background-image: url(./img/ico_txt.png);
+}
+.ico-pdf {
+    background-image: url(./img/ico_pdf.png);
+}
+.ico-img {
+    background-image: url(./img/ico_img.png);
+}
+.ico-jpg {
+    background-image: url(./img/ico_jpg.png);
+}
+.ico-bmp {
+    background-image: url(./img/ico_bmp.png);
+}
+.ico-gif {
+    background-image: url(./img/ico_gif.png);
+}
+.ico-png {
+    background-image: url(./img/ico_png.png);
+}
+.ico-ico {
+    background-image: url(./img/ico_ico.png);
+}
+.ico-rar {
+    background-image: url(./img/ico_rar.png);
+}
+.ico-zip {
+    background-image: url(./img/ico_zip.png);
+}
+.ico-zip {
+    background-image: url(./img/ico_zip.png);
+}
+.ico-other {
+    background-image: url(./img/ico_other.png);
+}
+.ico-shares {
+    background-image: url(./img/ico_shares.png);
+}
+.folder-icon {
+    width: 18px;
+    height: 14px;
+    display: inline-block;
+    margin-right: 8px;
+    vertical-align: text-bottom;
+}
+.folder-icon-closed {
+    background: url("./img/folder_closed_icon.png") center center no-repeat;
+}
+
+.folder-icon-open {
+    background: url("./img/folder_open_icon.png") center center no-repeat;
+}
+.file-item {
+    display: inline-block;
+    padding: 10px;
+    width: 100px;
+    text-align: center;
+}
+.text-over {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    word-break: break-all;
+    overflow: hidden;
+}
+.active {
+    background: #f7fcff;
+    border: 1px solid #d9efff;
+}
+.actionList {
+    background-color: #f3f4f8;
+    padding: 5px;
+}
+.actionList li {
+    display: inline-block;
+    padding: 5px 15px;
+    cursor: pointer;
+    border: 1px solid #f3f4f8;
+}
+.actionList li:hover {
+    border-color: #20a0ff;
+}
+.searchBox >input:focus {
+    border-color: #dcdfe6;
+}
